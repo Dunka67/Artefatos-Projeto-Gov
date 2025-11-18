@@ -1,0 +1,3 @@
+Este documento certifica o início do controle de versão dos artefatos do projeto. 
+Objetivo: Garantir a conformidade com as diretrizes de Governança de TI e Sustentabilidade. 
+Status: Versão Inicial (v1.0).
